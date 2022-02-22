@@ -58,7 +58,17 @@ namespace DBConnection
                 }
                 else
                     MessageBox.Show("Соединение с базой данных уже установлено");
-            }            
+            }  
+            
+            catch (SqlException XcpSQL)
+            {
+                foreach (SqlError se in XcpSQL.Errors)
+                {
+                    MessageBox.Show(se.Message, "Источник ошибки: " + se.Source,
+                  MessageBoxButtons.OK,
+                  MessageBoxIcon.Error);
+                }
+            }
 
             catch (Exception Xcp)
             {                
