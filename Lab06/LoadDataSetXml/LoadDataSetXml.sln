@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadDataSetXml", "LoadDataSetXml.csproj", "{027DF351-8C7C-462F-AF84-98507081B1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027DF351-8C7C-462F-AF84-98507081B1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027DF351-8C7C-462F-AF84-98507081B1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027DF351-8C7C-462F-AF84-98507081B1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027DF351-8C7C-462F-AF84-98507081B1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB16834-83BB-447E-9E0F-0BEF4BCDC09D}
+	EndGlobalSection
+EndGlobal
