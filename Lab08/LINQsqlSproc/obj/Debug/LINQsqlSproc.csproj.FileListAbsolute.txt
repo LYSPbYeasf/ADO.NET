@@ -1,0 +1,11 @@
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.AssemblyReference.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB08\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb
