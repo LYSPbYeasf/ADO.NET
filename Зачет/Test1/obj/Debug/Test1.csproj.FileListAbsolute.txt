@@ -1,0 +1,11 @@
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\bin\Debug\Test1.exe.config
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\bin\Debug\Test1.exe
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\bin\Debug\Test1.pdb
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.exe
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\Зачет\Test1\obj\Debug\Test1.pdb
