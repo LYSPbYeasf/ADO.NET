@@ -1,0 +1,11 @@
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.csproj.AssemblyReference.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\yaperovki\OneDrive - Группа компаний ИНТРАТУЛ\Рабочий стол\Люда\ADO\LABs\LAB09\CourseManager\obj\Debug\CourseManager.pdb
